@@ -13,22 +13,15 @@ A light theme for Obsidian. The theme is comfortable to the eye everything is a 
 > Hopefully this theme will be added to obsidian community themes Soon. 
 
 
-
-
-
 # Feedback & Contributions
 Help me make this theme even better. for any feedback you can [email me](mailto:zaher.almajed@gmail.com) directly.
-
 
 
 
 # Future Updates **(Based on feedbacks)**
 - Adding a full dark theme.
 - Changin the font of Small text to more clearer one.
-
-
-# Credits
-Color palette inspired by Windows 11.
+- 
 
 
 # Changelog
