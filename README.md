@@ -1,6 +1,8 @@
 # Illusion Theme
 A light theme for Obsidian. The theme is comfortable to the eye everything is a bit bigger and contrasted, combining dark & light themes gave it a unique touch. 
 
+> This is the initial release, I am planning to keep updating this theme regularly.
+
 ![Illusion-Theme-02](https://user-images.githubusercontent.com/54148795/125782571-78762279-c644-477a-9cdb-0666603190b9.png)
 
 # Installation
