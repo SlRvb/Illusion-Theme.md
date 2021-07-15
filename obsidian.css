@@ -463,15 +463,20 @@ h6::before{
 .workspace-tab-header-inner-icon > svg.folder, svg.search{
 	margin-right: 8px;
 }
-.workspace-leaf-content .view-header-title-container {
-	position: absolute;
-	display: flex;
-	top: 185px;
-	height: 100% !important;
-	background: transparent;
-	padding-top: 16px !important;
-	align-items: center;
-	border-radius: 0px;
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf > .workspace-leaf-content > .view-header .view-header-icon {
+    position: absolute;
+}
+
+body.plugin-sliding-panes-rotate-header.plugin-sliding-select-orientation-sideway .workspace > .mod-root > .workspace-leaf > .workspace-leaf-content > .view-header{
+    padding-top: 50px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf > .workspace-leaf-content > .view-header > .view-header-title-container {
+    height: 100% !important;
+    align-items: center;
+    display: flex;
 }
 .workspace-leaf.mod-am-right-of-active > .workspace-leaf-content > .view-header > .view-header-title-container{
 	background: var(--Color-White-Page) !important;
